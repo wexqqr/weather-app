@@ -1,0 +1,170 @@
+@media(max-width: 828px) {
+    .weather-container {
+        gap: 80px;
+    }
+}
+
+
+
+@media(max-width: 828px) {
+    .weather-container {
+        gap: 60px;
+    }
+}
+
+
+
+@media(max-width: 828px) {
+    .weather-container {
+        gap: 50px;
+    }
+
+    .weak-span {
+        font-size: 18px;
+    }
+
+    .daily-weather-img {
+        width: 40px;
+        margin-top: 5px;
+    }
+
+    .daily-temp {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+}
+
+
+
+@media(max-width: 600px) {
+    .weather-container {
+        gap: 35px;
+    }
+}
+
+
+
+@media(max-width: 530px) {
+    .bottom-line {
+        width: 400px;
+    }
+
+    .weak-span {
+        font-size: 16px;
+    }
+
+    .daily-weather-img {
+        width: 35px;
+        margin-top: 5px;
+    }
+
+    .daily-temp {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+}
+
+
+
+@media(max-width: 480px) {
+    h1 {
+        font-size: 40px;
+    }
+
+    .weather-img {
+        width: 90px;
+    }
+
+    .temperature {
+        color: white;
+    }
+
+    .weather-container {
+        gap: 30px;
+    }
+
+    .weak-span {
+        font-size: 15px;
+    }
+
+    .daily-weather-img {
+        width: 35px;
+        margin-top: 5px;
+    }
+
+    .daily-temp {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+}
+
+
+
+@media(max-width: 430px) {
+    .weather-container {
+        gap: 20px;
+    }
+
+    .weak-span {
+        font-size: 14px;
+    }
+
+    .daily-weather-img {
+        width: 30px;
+        margin-top: 5px;
+    }
+
+    .daily-temp {
+        font-size: 15px;
+        margin-top: 5px;
+    }
+
+    .bottom-line {
+        width: 300px;
+    }
+}
+
+
+
+@media(max-width: 390px) {
+    input {
+        width: 200px;
+        padding: 8px 5px;
+    }
+
+    .temperature {
+        font-size: 40px;
+        color: white;
+    }
+
+    #search-btn {
+        width: 94px;
+        padding: 8px 5px;
+    }
+}
+
+
+
+@media(max-width: 370px) {
+    .weak-span {
+        font-size: 13px;
+    }
+
+    input {
+        width: 170px;
+        padding: 7px 5px;
+    }
+
+    #search-btn {
+        width: 94px;
+        padding: 7px 5px;
+    }
+}
+
+
+
+@media(max-width: 350px) {
+    .weather-container {
+        gap: 15px;
+    }
+}
